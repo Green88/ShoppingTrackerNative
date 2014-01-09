@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="payment_array">
+        <item >Cash</item>
+        <item >Credit card</item>
+        <item >Check</item>
+        <item >Coupons</item>
+        <item >Bank account</item>
+        <item >Paypal</item>
+    </string-array>
+    
+    <string-array name="product_type_array">
+        <item >Food</item>
+        <item >Drinks</item>
+        <item >Clothing</item>
+        <item >Computers</item>
+        <item >Gadgets</item>
+        <item >Furniture</item>
+        <item >Bills</item>
+        <item >Books</item>
+        <item >Gifts</item>
+        <item >For home</item>
+        <item >For car</item>
+        <item >Gas</item>
+        <item >Other</item>
+    </string-array>
+    
+    <string-array name="action_list">
+        <item >Home</item>
+        <item >Buy</item>
+        <item >Edit</item>
+        <item >Info</item>
+    </string-array>
+    
+    <string-array name="months_count">
+        <item >1</item>
+        <item >2</item>
+        <item >3</item>
+        <item >4</item>
+    </string-array>
+    
+</resources>

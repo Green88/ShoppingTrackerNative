@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	
+    <item
+        android:id="@+id/action_buy"
+        android:icon="@drawable/ic_menu_buy"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_buy"/>
+    <item
+        android:id="@+id/action_edit"
+        android:icon="@drawable/ic_menu_edit"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_edit"/>
+    <item
+        android:id="@+id/action_info"
+        android:icon="@drawable/ic_menu_info"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_info"/>
+
+</menu>
